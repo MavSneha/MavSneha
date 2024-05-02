@@ -18,4 +18,6 @@
 
 ## Connect with Me
 
-- [LinkedIn]( www.linkedin.com/in/snehasinghk )
+<a href="https://www.linkedin.com/in/snehasinghk/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
+</a>
